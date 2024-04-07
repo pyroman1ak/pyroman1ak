@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me: Email(pyromaniak31@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My username is Pyro because I use to main him when I played Team Fortress 2
+- ⚡ Fun fact: I learnt how to code from Roblox during the pandemic 😎
 
 <!---
 pyroman1ak/pyroman1ak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
